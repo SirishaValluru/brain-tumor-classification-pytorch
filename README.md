@@ -106,6 +106,18 @@ The notebook also includes:
 
 ---
 
+## Results
+
+## Training Curves
+
+### Accuracy & Loss
+
+![Accuracy and Loss](images/accuracy_and_loss.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusionmatrix.png)
+
 ## Repository Structure
 
 ```
