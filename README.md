@@ -168,7 +168,7 @@ pip install -r requirements.txt
 
 ## Acknowledgements
 
-This project was developed as part of my deep learning learning journey.
+This project was developed as part of my deep learning journey.
 
 The implementation was inspired by publicly available educational resources, including the official PyTorch documentation, the Kaggle Brain Tumor MRI Dataset, and online tutorial materials. The code was studied, adapted, documented, and organized by the author for educational and portfolio purposes.
 
