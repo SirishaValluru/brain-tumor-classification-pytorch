@@ -166,7 +166,4 @@ The implementation was inspired by publicly available educational resources, inc
 
 **Sirisha Valluru**
 
-M.Tech Biomedical Engineering  
-Indian Institute of Information Technology Allahabad (IIIT Allahabad)
-
 GitHub: https://github.com/SirishaValluru
